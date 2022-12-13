@@ -11,7 +11,8 @@ int main () {
 		     } else {
 			    putchar(ch);
 		     }
-	      } 
+	      }
+	      putchar('\n');
 			       
 	         
 	         return(0);

@@ -10,7 +10,7 @@ int main()
 
 		n++;
 	}
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 }
